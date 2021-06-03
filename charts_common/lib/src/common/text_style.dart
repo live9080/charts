@@ -18,11 +18,11 @@ import 'paint_style.dart' show PaintStyle;
 /// Paint properties of a text.
 abstract class TextStyle extends PaintStyle {
   int get fontSize;
-  set fontSize(int value);
+  set fontSize(int? value);
 
   String get fontFamily;
-  set fontFamily(String fontFamily);
+  set fontFamily(String? fontFamily);
 
   double get lineHeight;
-  set lineHeight(double value);
+  set lineHeight(double? value);
 }

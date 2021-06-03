@@ -19,5 +19,5 @@ import 'color.dart';
 abstract class PaintStyle {
   Color get color;
 
-  set color(Color value);
+  set color(Color? value);
 }
