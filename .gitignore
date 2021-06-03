@@ -4,7 +4,8 @@ pubspec.lock
 
 .bundle
 _site
-
+.idea
+../.idea
 build/
 **/ios/.generated/
 **/ios/Flutter/Generated.xcconfig
