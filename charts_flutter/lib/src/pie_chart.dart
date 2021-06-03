@@ -14,7 +14,7 @@
 // limitations under the License.
 
 import 'package:charts_common/common.dart' as common
-    show ArcRendererConfig, PieChart, RTLSpec, Series;
+    show ArcRendererConfig, PieChart, RTLSpec, Series, SeriesRendererConfig;
 import 'behaviors/chart_behavior.dart' show ChartBehavior;
 import 'base_chart.dart' show BaseChart, LayoutConfig;
 import 'base_chart_state.dart' show BaseChartState;
@@ -22,20 +22,20 @@ import 'selection_model_config.dart' show SelectionModelConfig;
 
 class PieChart<D> extends BaseChart<D> {
   PieChart(
-    List<common.Series> seriesList, {
-    bool animate,
-    Duration animationDuration,
-    common.ArcRendererConfig<D> defaultRenderer,
-    List<ChartBehavior> behaviors,
-    List<SelectionModelConfig<D>> selectionModels,
-    common.RTLSpec rtlSpec,
-    LayoutConfig layoutConfig,
+    List<common.Series<dynamic, D>> seriesList, {
+    bool? animate,
+    Duration? animationDuration,
+    common.ArcRendererConfig<D>? defaultRenderer,
+    List<ChartBehavior>? behaviors,
+    List<SelectionModelConfig<D>>? selectionModels,
+    common.RTLSpec? rtlSpec,
+    LayoutConfig? layoutConfig,
     bool defaultInteractions = true,
   }) : super(
           seriesList,
           animate: animate,
           animationDuration: animationDuration,
-          defaultRenderer: defaultRenderer,
+          defaultRenderer: defaultRenderer as common.SeriesRendererConfig<D>,
           behaviors: behaviors,
           selectionModels: selectionModels,
           rtlSpec: rtlSpec,
@@ -44,7 +44,7 @@ class PieChart<D> extends BaseChart<D> {
         );
 
   @override
-  common.PieChart<D> createCommonChart(BaseChartState chartState) =>
+  common.PieChart<D> createCommonChart(BaseChartState? chartState) =>
       new common.PieChart<D>(layoutConfig: layoutConfig?.commonLayoutConfig);
 
   @override
