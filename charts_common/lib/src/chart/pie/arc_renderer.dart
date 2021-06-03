@@ -412,7 +412,7 @@ class ArcRenderer<D> extends BaseSeriesRenderer<D?> {
   }
 
   /// Returns an expanded [DatumDetails] object that contains location data.
-  DatumDetails<D> getExpandedDatumDetails(SeriesDatum<D> seriesDatum) {
+  DatumDetails<D>? getExpandedDatumDetails(SeriesDatum<D> seriesDatum) {
     final series = seriesDatum.series!;
     final datum = seriesDatum.datum;
     final datumIndex = seriesDatum.index;

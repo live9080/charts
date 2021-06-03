@@ -19,7 +19,7 @@ import 'text_style.dart' show TextStyle;
 /// Interface for accessing text measurement and painter.
 abstract class TextElement {
   /// The [TextStyle] of this [TextElement].
-  TextStyle get textStyle;
+  TextStyle? get textStyle;
 
   set textStyle(TextStyle? value);
 
@@ -31,7 +31,7 @@ abstract class TextElement {
   set maxWidth(int value);
 
   /// The strategy to use if this [TextElement] exceeds the [maxWidth].
-  MaxWidthStrategy get maxWidthStrategy;
+  MaxWidthStrategy? get maxWidthStrategy;
 
   set maxWidthStrategy(MaxWidthStrategy? maxWidthStrategy);
 

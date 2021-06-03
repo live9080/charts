@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="37287d0e-7d11-4720-bb17-2e192fcfef72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/charts_common.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.fvm/flutter_sdk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.fvm/fvm_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/charts_flutter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../charts_flutter/example/ios/Flutter/flutter_export_environment.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/chart/pie/arc_renderer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/chart/pie/arc_renderer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/common/graphics_factory.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/common/graphics_factory.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/common/line_style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/common/line_style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/common/paint_style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/common/paint_style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/common/text_element.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/common/text_element.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/src/common/text_style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/src/common/text_style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/bar_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/bar_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/base_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/base_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/base_chart_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/base_chart_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/a11y/domain_a11y_explore_behavior.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/a11y/domain_a11y_explore_behavior.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/calculation/percent_injector.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/calculation/percent_injector.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/chart_behavior.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/chart_behavior.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/chart_title/chart_title.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/chart_title/chart_title.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/initial_selection.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/initial_selection.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/datum_legend.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/datum_legend.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/legend_content_builder.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/legend_content_builder.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/legend_entry_layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/legend_entry_layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/legend_layout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/legend_layout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/series_legend.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/legend/series_legend.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/line_point_highlighter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/line_point_highlighter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/range_annotation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/range_annotation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/select_nearest.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/select_nearest.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/slider/slider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/slider/slider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/zoom/initial_hint_behavior.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/zoom/initial_hint_behavior.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/zoom/pan_and_zoom_behavior.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/zoom/pan_and_zoom_behavior.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/zoom/pan_behavior.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/behaviors/zoom/pan_behavior.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/circle_sector_painter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/circle_sector_painter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/line_painter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/line_painter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/pie_painter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/pie_painter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/point_painter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/point_painter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/polygon_painter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/canvas/polygon_painter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/cartesian_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/cartesian_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/chart_canvas.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/chart_canvas.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/chart_container.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/chart_container.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/chart_gesture_detector.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/chart_gesture_detector.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/combo_chart/combo_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/combo_chart/combo_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/graphics_factory.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/graphics_factory.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/line_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/line_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/line_style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/line_style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/pie_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/pie_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/scatter_plot_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/scatter_plot_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/selection_model_config.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/selection_model_config.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/symbol_renderer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/symbol_renderer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/text_element.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/text_element.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/text_style.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/text_style.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/time_series_chart.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/time_series_chart.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/user_managed_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/user_managed_state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/util.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/util.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/util/color.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/util/color.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/lib/src/widget_layout_delegate.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/lib/src/widget_layout_delegate.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../charts_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../charts_flutter/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tQtouEB62v7fYmiao1o6BtE7Qp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37287d0e-7d11-4720-bb17-2e192fcfef72" name="Default Changelist" comment="" />
+      <created>1622713318826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622713318826</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
